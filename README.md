@@ -1,2 +1,2 @@
-# reading-number
+# reading-numbers
 created by Satyabrata Pradhan
